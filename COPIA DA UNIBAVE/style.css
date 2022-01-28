@@ -1,0 +1,402 @@
+.logounibave{
+    position: absolute;
+    top: 70px;
+    left: 150px;
+}
+
+.colegiounibave{
+    color: #000000 !important;
+    position: absolute;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    left: 200px;
+}
+
+.concursosunibave{
+    color: #000000 !important;
+    position: absolute;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    left: 350px;
+}
+
+.faleunibave{
+    color: #000000 !important;
+    position: absolute;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    left: 470px;
+}
+
+.acessibilidadeunibave{
+    color: #000000 !important;
+    position: absolute;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    left: 610px;
+}
+
+.bibliotecaunibave{
+    color: #000000 !important;
+    position: absolute;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    left: 770px;
+}
+
+.bolsasedescontosaunibave{
+    color: #000000 !important;
+    position: absolute;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    left: 890px;
+}
+
+.minhaunibave{
+    color: #000000 !important;
+    top: -5px;
+    position: absolute;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    left: 1050px;
+    background-color: #bad858;
+    border-radius: 3px;
+    padding: 8px;
+}
+
+
+.bannerunibave{
+    position: absolute;
+    top: 160px;
+    width: 100%;
+    height: 550px;
+    left: -17px;
+}
+
+.ensinounibave{
+    position: absolute;
+    top: 90px;
+    left: 490px;
+}
+
+.pesquisaunibave{
+    position: absolute;
+    top: 90px;
+    left: 600px;
+}
+
+.extensaounibave{
+    position: absolute;
+    top: 90px;
+    left: 720px;
+}
+
+.estudenounibave{
+    position: absolute;
+    top: 90px;
+    left: 850px;
+    top: 90px;
+}
+
+.institucionalunibave{
+    position: absolute;
+    top: 90px;
+    left: 1000px; 
+}
+
+.rolagemunibave{
+    position: absolute;
+    top: 120px;
+    left: -420px;
+    cursor: pointer;
+
+}
+
+.rolagemunibave2{
+    position: absolute;
+    top: 100px;
+    left: 865px;
+    cursor: pointer;
+}
+
+.noticiaunibave{
+    position: absolute;
+	font-size:20px;
+    color: #4f4c4c;
+    top: 590px;
+    left: 110px;
+}
+
+.imagem1unibave{
+    position: absolute;
+    top: 650px;
+    left: 105px;
+    cursor: pointer;
+}
+
+.imagem2unibave{
+    position: absolute;
+    top: 650px;
+    left: 390px;
+    cursor: pointer;
+}
+
+.imagem3unibave{
+    position: absolute;
+    top: 650px;
+    left: 675px;
+    cursor: pointer;
+}
+
+.institucional11unibave{
+    position: absolute;
+    background-color: #bad858;
+    padding: 2px;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-size: 11px;
+    text-align: center;
+    width: 90px;
+    top: 820px;
+    left: 105px;
+    cursor: pointer;
+}
+
+.institucional12unibave{
+    position: absolute;
+    background-color: #bad858;
+    padding: 2px;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-size: 11px;
+    text-align: center;
+    width: 90px;
+    top: 820px;
+    left: 392px;
+    cursor: pointer;
+}
+
+.institucional13unibave{
+    position: absolute;
+    background-color: #bad858;
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    text-align: center;
+    border-radius: 2px;
+    width: 50px;
+    height: 15px;
+    top: 816px;
+    left: 676px;
+    cursor: pointer;
+}
+
+.institucional14unibave{
+    position: absolute;
+    background-color: #bad858;
+    padding: 3px;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-size: 10px;
+    text-align: center;
+    width: 80px;
+    top: 660px;
+    left: 970px;
+    cursor: pointer;
+}
+
+
+.institucional15unibave{
+    position: absolute;
+    background-color: #bad858;
+    padding: 3px;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-size: 11px;
+    text-align: center;
+    width: 50px;
+    height: 16px;
+    top: 760px;
+    left: 970px;
+    cursor: pointer;
+}
+
+.institucional16unibave{
+    position: absolute;
+    background-color: #bad858;
+    padding: 2px;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-size: 11px;
+    text-align: center;
+    width: 50px;
+    height: 16px;
+    top: 843px;
+    left: 970px;
+    cursor: pointer;
+}
+
+.texto1{
+    position: absolute;
+    width: 250px;
+    top: 825px;
+    left: 100px;
+    color: #000000;
+    padding-top: 9px;
+    font-family: Open Sans;
+    cursor: pointer;
+}
+
+.texto2{
+    position: absolute;
+    width: 250px;
+    top: 825px;
+    left: 390px;
+    color: #000000;
+    padding-top: 9px;
+    font-family: Open Sans;
+    cursor: pointer;}
+
+.texto3{
+    position: absolute;
+    width: 250px;
+    top: 825px;
+    left: 674px;
+    color: #000000;
+    padding-top: 9px;
+    font-family: Open Sans;
+    cursor: pointer;
+}
+
+.texto4{
+    position: absolute;
+    width: 250px;
+    top: 662px;
+    left: 970px;
+    color: #000000;
+    padding-top: 9px;
+    font-family: Open Sans;
+    cursor: pointer;
+}
+
+.texto5{
+    position: absolute;
+    width: 250px;
+    top: 758px;
+    left: 970px;
+    color: #000000;
+    padding-top: 9px;
+    font-family: Open Sans;
+    cursor: pointer;
+}
+
+.texto6{
+    position: absolute;
+    width: 250px;
+    top: 850px;
+    left: 970px;
+    color: #000000;
+    padding-top: 9px;
+    font-family: Open Sans;
+    cursor: pointer;
+}
+
+.data1{
+    font-size: 12px;
+    position: absolute;
+    opacity: 0.6;
+    top: 810px;
+    left: 200px;
+}
+
+.data2{
+    font-size: 12px;
+    position: absolute;
+    opacity: 0.6;
+    top: 810px;
+    left: 489px;
+}
+.data3{
+    font-size: 12px;
+    position: absolute;
+    opacity: 0.6;
+    top: 816px;
+    left: 728px;
+}
+
+.data4{
+    font-size: 12px;
+    position: absolute;
+    opacity: 0.6;
+    top: 660px;
+    left: 1060px;
+}
+
+.data5{
+    font-size: 12px;
+    position: absolute;
+    opacity: 0.6;
+    top: 762px;
+    left: 1030px;
+}
+
+.data6{
+    font-size: 12px;
+    position: absolute;
+    opacity: 0.6;
+    top: 845px;
+    left: 1028px; 
+}
+
+.fundocinza{
+    position: absolute;
+    width: 100%;
+    height: 750px;
+    left: -0px;
+    top: 1000px;
+    background-color: #E9ECEF;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+p:hover{
+    color:green
+}
+
+a{
+    color: white;
+    border: none;
+}
+h6{
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: 602;
+    line-height: 1.2;
+    margin-top: 0;
+    color: #4f4c4c;
+    padding-top: 10px;
+}
+h6:hover{
+    color: green;
+}
+
+.obanner{
+    position: absolute;
+    top: 160px;
+    left: -5px;
+    transition: 2000ms;
+    opacity: 0;
+   
+}
